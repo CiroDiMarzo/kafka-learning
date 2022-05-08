@@ -1,0 +1,6 @@
+Server=tcp:
+fenaco-dev-websvc-agropolis-coredata-sql.database.windows.net
+1433
+Initial Catalog=fenaco-Dev-WebSvc-Agropolis-CoreData-SqlDb
+User ID=garaio-admin
+Password=AG.ropoli5
